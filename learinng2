@@ -1,0 +1,23 @@
+[33mcommit 2a8701b11201352e8bb3992e2411d94e57128982[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: mohamed <mohamed.khaled72155@gmail.com>
+Date:   Tue Mar 8 12:31:20 2022 +0200
+
+    add main.go with empty main function
+
+[33mcommit 615777b74127437b78527ac9320f7045347203cc[m
+Author: mohamed <mohamed.khaled72155@gmail.com>
+Date:   Tue Mar 8 09:44:48 2022 +0200
+
+    thid id the two
+
+[33mcommit 6e199ba771722b7e9a90bfdc38e0db1feab78953[m
+Author: mohamed <mohamed.khaled72155@gmail.com>
+Date:   Tue Mar 8 09:38:27 2022 +0200
+
+    add console.log
+
+[33mcommit d833c106a0ee11c2c752ffe572fbadd23f74b5e3[m
+Author: mohamed <mohamed.khaled72155@gmail.com>
+Date:   Mon Mar 7 19:09:01 2022 +0200
+
+    bootstarp project
